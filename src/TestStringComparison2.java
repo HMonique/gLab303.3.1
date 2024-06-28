@@ -1,4 +1,4 @@
-public class TestStringComparison {
+public class TestStringComparison2 {
     public static void main(String args[]){
         String s1="PerScholas";
         String s2="PerScholas";
@@ -9,4 +9,5 @@ public class TestStringComparison {
         System.out.println(s1.equals(s4));//false
     }
 }
+
 
